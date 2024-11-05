@@ -6,7 +6,7 @@ A  Game
 
 2D
 
-Mine ore inorder to get cash to reach a point
+Mine ore inorder to get cash to reach a goal
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
