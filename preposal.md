@@ -2,11 +2,15 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+A  Game
+
+2D
+
+Mine ore inorder to get cash to reach a point
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+None
 
 ## Do you have any questions of your own?
 
