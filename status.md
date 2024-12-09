@@ -2,15 +2,15 @@
 
 #### Your name
 
-TODO
+Kaydin Earley
 
 #### Your section leader's name
 
-TODO
+Daniel Blitshtein
 
 #### Project title
 
-TODO
+Toibow
 
 ***
 
@@ -18,12 +18,21 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-TODO
+-Made character sprite
+-Made a script for character movemennt
+-Added animation to movement
+-Made a Tileset and a basic layout of map
+-Made sprites for other aseets in game
+
 
 #### What have you not done for your project yet?
 
-TODO
+-Made the mining feature in the game
+-Added collision
+-Implemented selling of ore
+-Made a way to see money
 
 #### What problems, if any, have you encountered?
 
-TODO
+-Working and a programming language never used before led to me not being able to really expand on scripts in tutorials 
+-Making the Tilesets 
